@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is C251-BB6C
+
+ Directory of C:\Users\kesavk\Desktop\myproject
+
+05/26/2021  08:12 PM    <DIR>          .
+05/26/2021  08:12 PM    <DIR>          ..
+05/26/2021  08:12 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  411,048,644,608 bytes free
